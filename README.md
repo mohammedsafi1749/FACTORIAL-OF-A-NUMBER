@@ -1,5 +1,7 @@
 # FACTORIAL-OF-A-NUMBER
 # FACTORIAL OF A NUMBER USING 8051 (Keil)
+## NAME: MOHAMMED SAFI F
+## REG NO: 212224060156
 
 ## AIM
 To write and execute an Assembly language program to perform the factorial of a number using 8051 Keil.
