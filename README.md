@@ -72,7 +72,8 @@ OUTPUT
 ---
 MANUAL CALCULATIONS
 
----
+![WhatsApp Image 2026-02-20 at 11 21 33 AM](https://github.com/user-attachments/assets/132a00ed-9d49-4773-9d0c-01b6fe7d7637)
+
 
 RESULT
 
