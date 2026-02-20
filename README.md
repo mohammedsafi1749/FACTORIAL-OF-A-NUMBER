@@ -72,7 +72,7 @@ OUTPUT
 ---
 MANUAL CALCULATIONS
 
-<img width="1280" height="730" alt="image" src="https://github.com/user-attachments/assets/8cd2fb4d-9c54-4bca-a6f8-18df95f5cd3b" />
+<img width="700" height="730" alt="image" src="https://github.com/user-attachments/assets/8cd2fb4d-9c54-4bca-a6f8-18df95f5cd3b" />
 
 
 RESULT
